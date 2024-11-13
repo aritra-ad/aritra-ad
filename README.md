@@ -70,7 +70,7 @@ You can reach me via email at: **[aritraadhikary@gmail.com](mailto:aritraadhikar
 
 ## 📊 **GitHub Stats**
 
-<div style="display: flex; justify-content: center; gap: 30px; height:120px">
+<div style="display: flex; justify-content: center; gap: 30px; height:120px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aritra-ad&show_icons=true&locale=en&hide=prs&count_private=true&theme=gruvbox" alt="aritra-ad" />
   </div>
