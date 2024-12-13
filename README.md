@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://portfolio-website-aritra.vercel.app/" target="_blank" style="font-size: 28px; font-weight: bold; text-decoration: none; color: #2e6dff;">My Portfolio Website</a>
+  <a href="https://portfolio-website-aritra.vercel.app/" target="_blank" style="font-size: 30px; font-weight: bold; text-decoration: none; color: #2e6dff;">My Portfolio Website</a>
 </p>
 
 ## A passionate **Frontend Developer** from India 🌍  
