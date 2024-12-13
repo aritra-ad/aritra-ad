@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a href="https://portfolio-website-aritra.vercel.app/">My Portfolio</a> | 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+I'm+Aritra+Adhikary" alt="Typing SVG" /></a>
 </h1>
 
@@ -103,6 +102,8 @@ You can reach me via email at: **[aritraadhikary@gmail.com](mailto:aritraadhikar
     <li><strong>Hobbies:</strong> Coding, Learning, Music, Reading</li>
   </ul>
 </div>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You+For+Visiting" alt="Typing SVG" /></a>
