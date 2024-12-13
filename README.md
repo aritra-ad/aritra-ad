@@ -1,6 +1,12 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+I'm+Aritra+Adhikary" alt="Typing SVG" /></a>
+  <a href="https://portfolio-website-aritra.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+I'm+Aritra+Adhikary" alt="Typing SVG" />
+  </a>
 </h1>
+
+<p align="center">
+  <a href="https://portfolio-website-aritra.vercel.app/" target="_blank" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #2e6dff;">My Portfolio Website</a>
+</p>
 
 ## A passionate **Frontend Developer** from India 🌍  
 ### Crafting delightful web experiences with code!  
@@ -102,8 +108,6 @@ You can reach me via email at: **[aritraadhikary@gmail.com](mailto:aritraadhikar
     <li><strong>Hobbies:</strong> Coding, Learning, Music, Reading</li>
   </ul>
 </div>
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You+For+Visiting" alt="Typing SVG" /></a>
