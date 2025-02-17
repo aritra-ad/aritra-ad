@@ -39,7 +39,7 @@ Here’s a snapshot of where I am right now in my development journey:
   - [Landing Page with React, Bootstrap, and React Hooks](https://aritra-ad.github.io/web-project-2/)
   - [Landing Page with React, Tailwind, and React Hooks](https://aritra-ad.github.io/web-project-3/)
   - [Landing Page with React, Tailwind, Next.js, and React Hooks](https://web-project-4.vercel.app/)
-  - [Website with React, Tailwind, React Router, and React Hooks](https://music-f-six.vercel.app/)
+  - [Website with React, Tailwind, React Router, and React Hooks](https://music-fs-jc87.vercel.app/)
 
 💬 **Feel free to ask me about** Web development, React, Redux, Tailwind CSS, and more!
 
