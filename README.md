@@ -35,11 +35,11 @@ Here’s a snapshot of where I am right now in my development journey:
   - **Frameworks & Libraries:** React, React Hooks, Next.js, Redux  
   - **Styling:** Tailwind CSS, Bootstrap  
 - 🌱 **My Works:**
-  - [Landing Page with HTML, CSS, Bootstrap, JavaScript](https://aritra-ad.github.io/web-project-1/)
-  - [Landing Page with React, Bootstrap, and React Hooks](https://aritra-ad.github.io/web-project-2/)
-  - [Landing Page with React, Tailwind, and React Hooks](https://aritra-ad.github.io/web-project-3/)
-  - [Landing Page with React, Tailwind, Next.js, and React Hooks](https://web-project-4.vercel.app/)
-  - [Website with React, Tailwind, React Router, and React Hooks](https://music-fs-jc87.vercel.app/)
+  - [Landing Page with React, Bootstrap, and React Hooks](https://aritra-ad.github.io/web-project-2/) - A dynamic landing page showcasing responsive design with React and Bootstrap.
+  - [Website with React, Tailwind, React Router, and React Hooks](https://music-fs-jc87.vercel.app/) - A music-themed app with dynamic routing and state management using React Router.
+  - [Landing Page with HTML, CSS, Bootstrap, JavaScript](https://aritra-ad.github.io/web-project-1/) - A classic landing page with responsive design elements.
+  - [Website with React, Tailwind and React Hooks](https://doctor-pro.vercel.app/) - A health-focused website with fast server-side rendering using Next.js.
+  - [Landing Page with React, Tailwind, and React Hooks](https://edu-web-nine.vercel.app/) - An educational web app with a modern UI and interactive features.
 
 💬 **Feel free to ask me about** Web development, React, Redux, Tailwind CSS, and more!
 
